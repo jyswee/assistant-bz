@@ -1,0 +1,33 @@
+assistant.bz CLI - End User License Agreement
+
+Copyright (c) 2026 Tyga.Cloud Ltd. All rights reserved.
+
+Permission is granted to install and use this software via npm for its
+intended purpose (interacting with the assistant.bz platform at assistant.bz).
+
+You may NOT:
+- Reverse-engineer, decompile, or disassemble this software
+- Redistribute, sublicense, or resell this software
+- Modify or create derivative works based on this software
+- Remove or alter any copyright notices contained in this software
+
+INDEMNIFICATION: You agree to indemnify, defend, and hold harmless Tyga.Cloud
+Ltd, its officers, directors, employees, and agents from and against any and
+all claims, damages, losses, liabilities, costs, and expenses (including
+reasonable legal fees) arising out of or related to your use or misuse of this
+software, violation of this agreement, or infringement of any third-party
+rights.
+
+LIMITATION OF LIABILITY: In no event shall Tyga.Cloud Ltd's total aggregate
+liability exceed the amounts paid by you to Tyga.Cloud Ltd in the twelve (12)
+months preceding the claim. Tyga.Cloud Ltd shall not be liable for any
+indirect, incidental, special, consequential, or punitive damages.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+TYGA.CLOUD LTD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Full terms of service: https://assistant.bz/terms

@@ -1,0 +1,30 @@
+{
+  "name": "assistant-bz",
+  "version": "1.0.0",
+  "description": "assistant.bz CLI — shared AI services (TTS, voice synthesis) for coding agents. Kokoro + OpenAI cascade. As easy as git.",
+  "bin": {
+    "abz": "bin/cli.js"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "assistant-bz", "tts", "text-to-speech", "kokoro", "voice", "ai",
+    "agent", "cli", "coding-agent", "ai-agent",
+    "claude", "cursor", "cline", "windsurf", "aider", "codex"
+  ],
+  "author": "Joe Wee <joe@tyga.cloud>",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://assistant.bz",
+  "repository": {
+    "type": "git",
+    "url": "https://assistant.bz"
+  },
+  "bugs": {
+    "url": "https://assistant.bz/feedback"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

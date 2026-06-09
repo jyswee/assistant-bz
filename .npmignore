@@ -1,0 +1,7 @@
+src/
+scripts/
+.gitignore
+.abz/
+*.md
+!README.md
+!LICENSE
