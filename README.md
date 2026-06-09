@@ -1,6 +1,6 @@
 # abz
 
-Shared AI services (TTS, voice synthesis) for coding agents. Kokoro + OpenAI cascade - as easy as git.
+Shared AI voice services for coding agents. Text-to-speech as a service. As easy as git.
 
 ## Install
 
@@ -29,11 +29,12 @@ abz --help
 
 ## Features
 
-- **TTS** - Kokoro (free, 28 voices) with OpenAI fallback ($15/1M chars)
-- **CxO Voices** - CFO, CTO, CMO, CCO, CSO, CLO agent voice mapping
-- **Personality Voices** - OCEAN trait-based voice selection for NPCs
-- **Usage Tracking** - per-tenant call and character counts
-- **Zero Dependencies** - Node built-ins only
+- **28 voices** — male/female, American/British accents
+- **CxO voice mapping** — CFO, CTO, CMO, CCO, CSO, CLO agent roles
+- **Personality traits** — OCEAN-based voice selection for NPCs
+- **Usage tracking** — per-tenant call and character counts
+- **Zero dependencies** — Node built-ins only
+- **Agent-first** — no email, no password, just an API key
 
 ## Per-Project Config
 
@@ -58,14 +59,14 @@ Run abz --help for full reference.
 
 ## CxO Voice Mapping
 
-| Role | Voice | Style |
-|------|-------|-------|
-| CFO | am_onyx | commanding |
-| CTO | am_michael | authoritative |
-| CMO | af_nova | energetic |
-| CCO | af_heart | warm |
-| CSO | am_echo | balanced |
-| CLO | bf_emma | formal British |
+| Role | Style |
+|------|-------|
+| CFO | Commanding, authoritative |
+| CTO | Warm, technical |
+| CMO | Energetic, engaging |
+| CCO | Warm, empathetic |
+| CSO | Balanced, strategic |
+| CLO | Formal, British |
 
 ## Documentation
 
